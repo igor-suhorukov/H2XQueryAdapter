@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <XRESULT GR="org.springframework" AR="spring-aop" VER="5.1.4.RELEASE"/>
+  <XRESULT GR="org.springframework" AR="spring-beans" VER="5.1.4.RELEASE"/>
+  <XRESULT GR="org.springframework" AR="spring-core" VER="5.1.4.RELEASE"/>
+  <XRESULT GR="org.springframework" AR="spring-expression" VER="5.1.4.RELEASE"/>
+  <XRESULT GR="javax.annotation" AR="javax.annotation-api" VER="1.3.2"/>
+  <XRESULT GR="javax.ejb" AR="javax.ejb-api" VER="3.2"/>
+  <XRESULT GR="javax.enterprise.concurrent" AR="javax.enterprise.concurrent-api" VER="1.0"/>
+  <XRESULT GR="javax.inject" AR="javax.inject" VER="1"/>
+  <XRESULT GR="javax.interceptor" AR="javax.interceptor-api" VER="1.2.2"/>
+  <XRESULT GR="javax.money" AR="money-api" VER="1.0.3"/>
+  <XRESULT GR="javax.validation" AR="validation-api" VER="1.1.0.Final"/>
+  <XRESULT GR="javax.xml.ws" AR="jaxws-api" VER="2.3.1"/>
+  <XRESULT GR="joda-time" AR="joda-time" VER="2.10.1"/>
+  <XRESULT GR="org.aspectj" AR="aspectjweaver" VER="1.9.2"/>
+  <XRESULT GR="org.beanshell" AR="bsh" VER="2.0b5"/>
+  <XRESULT GR="org.codehaus.groovy" AR="groovy" VER="2.5.5"/>
+  <XRESULT GR="org.hibernate" AR="hibernate-validator" VER="5.4.2.Final"/>
+  <XRESULT GR="org.jetbrains.kotlin" AR="kotlin-reflect" VER="1.2.71"/>
+  <XRESULT GR="org.jetbrains.kotlin" AR="kotlin-stdlib" VER="1.2.71"/>
+  <XRESULT GR="org.springframework" AR="spring-instrument" VER="5.1.4.RELEASE"/>
+</dataset>
