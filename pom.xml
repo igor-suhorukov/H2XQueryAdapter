@@ -43,9 +43,9 @@
             <version>9.1.2</version>
         </dependency>
         <dependency>
-            <groupId>com.github.h2database</groupId>
-            <artifactId>h2database</artifactId>
-            <version>992f5c7</version>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>1.4.199</version>
             <scope>provided</scope>
         </dependency>
 
@@ -80,12 +80,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-    </repositories>
     <build>
         <plugins>
             <!-- JUnit 5 requires Surefire version 2.22.1 or higher -->
